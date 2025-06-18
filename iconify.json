@@ -11,5 +11,19 @@
       "https://raw.githubusercontent.com/initproc01/initproc13/main/iconify/setup1/preview3.png",
       "https://raw.githubusercontent.com/initproc01/initproc13/main/iconify/setup1/preview4.png"
     ]
-}  
+},
+{
+    "number": "002",
+    "name": "setup2",
+    "author": "Ineffable",
+    "access": "lite",
+    "url": "https://raw.githubusercontent.com/initproc01/initproc13/main/iconify/setup2/setup2.iconify",
+    "images": [
+      "https://raw.githubusercontent.com/initproc01/initproc13/main/iconify/setup2/1.png",
+      "https://raw.githubusercontent.com/initproc01/initproc13/main/iconify/setup2/2.png",
+      "https://raw.githubusercontent.com/initproc01/initproc13/main/iconify/setup2/3.png",
+      "https://raw.githubusercontent.com/initproc01/initproc13/main/iconify/setup2/4.png",
+      "https://raw.githubusercontent.com/initproc01/initproc13/main/iconify/setup2/5.png"
+    ]
+}
 ]
